@@ -1,0 +1,22 @@
+Theme ;  Desert
+Genre : Sand panning game
+Platform : android 10
+Tech:
+. Accelerometer
+. Touch screen
+
+    Design
+
+Splash screen
+~/menu
+~/menu/settings 
+~/menu/play
+~/menu/play/pan
+(In play show map to traverse, in pan, pan dead centre of screen.)
+
+-Schedule
+week 2 - Evaluate panning and map
+week 4 - Panning and map must be implemented
+week 5 - fluff menus
+week 6 - 11 polish
+
