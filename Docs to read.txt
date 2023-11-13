@@ -1,1 +1,3 @@
 https://source.android.com/docs/core/interaction/sensors/sensor-types
+
+https://developer.android.com/training/data-storage/app-specific#java
