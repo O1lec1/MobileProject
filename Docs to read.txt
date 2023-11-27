@@ -2,3 +2,7 @@ https://source.android.com/docs/core/interaction/sensors/sensor-types
 
 https://developer.android.com/training/data-storage/app-specific#java
 https://learn.microsoft.com/en-us/dotnet/api/android.graphics.canvas.drawoval?view=xamarin-android-sdk-13
+
+
+-used
+https://commons.wikimedia.org/wiki/File:Sand.jpg
